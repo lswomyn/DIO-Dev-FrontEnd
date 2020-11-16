@@ -13,4 +13,4 @@
 
 ### XML
 - linguagem de marcação criada nos anos 90
-- Facilita a separação de conteudo por causa das "<tags>"
+- Facilita a separação de conteudo por causa das ``<tags>``
