@@ -6,4 +6,11 @@
 - XML -> marcação <tags>
 - JSON -> chaves e aspas { }
   
-### SOAP
+### SOAP - Simple Object Access Protocol
+- Protocolo XML - HTTP
+- independente de plataforma / linguagem 
+- permite outros protocolos além do HTTP
+
+### XML
+- linguagem de marcação criada nos anos 90
+- Facilita a separação de conteudo por causa das <tags>
