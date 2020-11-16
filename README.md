@@ -2,7 +2,7 @@
 
 1. Lógica de programação essencial :heavy_check_mark:
 2. Introdução ao Git e ao GitHub :heavy_check_mark:
-3. Fundamentos de arquitetura de sistemas
+3. Fundamentos de arquitetura de sistemas :point_left:
 4. Criando um repositório para seus projetos inovadores
 5. Programação para a internet com HTML5 e CSS3
 6. Construindo páginas para a internet com o Bootstrap :heavy_check_mark:
