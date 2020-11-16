@@ -14,3 +14,7 @@
 ### XML
 - linguagem de marcação criada nos anos 90
 - Facilita a separação de conteudo por causa das ``<tags>``
+- SOAP Envelope (pai - encapsula toda a mensagem)
+  - SOAP header (tolken..)
+  - SOAP body (detalhes da mensagem)
+- tags ilimitadas
