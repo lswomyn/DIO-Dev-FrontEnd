@@ -18,3 +18,13 @@
   - SOAP header (tolken..)
   - SOAP body (detalhes da mensagem)
 - tags ilimitadas
+
+#### WSDL - Web Services Description Language
+
+- Contrato de serviço, descreve o webservice
+- é um XML com as especificações do serviços
+- 
+#### XSD - XML Schema Definition
+- Descreve como vai montar o XML
+- Define o que é obrigatório
+- documentaçã
