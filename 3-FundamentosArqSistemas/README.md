@@ -72,10 +72,10 @@
   - que podem acessar bancos de dados diferentes
   - cada caixa é como se fosse 1 monolito que conversa com o outro.
   - Pode se comunicar inclusive com outros serviços externos
-2. Microsserviços 2
+3. Microsserviços 2
   - os serviços não se comunicam mais diretamente, existe um message broker
   - a plataforma inteira fica refém do message broker (problema)
-3. Microsserviços 3
+4. Microsserviços 3
   - O Proxy em vez de redirecionar direto para o serviço, rediciona para um gerenciador de pipeline
   - Cada aplicação tem passos para seguir
   - se o gerenciador de pipeline sai do ar, a plataforma inteira está fora do ar.
